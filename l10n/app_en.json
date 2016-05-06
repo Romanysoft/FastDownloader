@@ -1,0 +1,73 @@
+{
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Features",
+        "Video": "Video",
+        "ReleaseNotes": "Changelog",
+        "Downloads": "Download",
+        "Buy": "Buy",
+        "Documents": "Documentation",
+        "ReportIssue": "Issues",
+        "Languages": "Languages"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Maximum lift download acceleration 5 times.",
+        "BtnDownload": "Free Trial",
+        "BtnBuy": "Buy",
+        "Screens": [
+            "{{images/screens/common/c1.png}}",
+            "{{images/screens/common/c2.png}}",
+            "{{images/screens/common/c3.png}}"
+        ],
+        "Features": {
+            "SectionName": "Main Features",
+            "list": [
+                "Support increase download speed up-to 500%."
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Wonderful things people are saying about FastDownloader",
+            "list": [
+
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "{{2.14.1212}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{FastDownloader-v2.14.1212-darwin-x64.zip}}",
+                        "size": "{{50.3MB}}",
+                        "downURL": "{{https://itunes.apple.com/us/app/fastdownloader/id806806355?l=zh&ls=1&mt=12}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Buy",
+        "list": [          
+            {
+                "name": "{{FastDownloader for Mac App Store}}",
+                "logo": "{{images/buy/mas.png}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/fastdownloader/id806806355?l=zh&ls=1&mt=12}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Available language(MT)",
+        "ChangeAlert": "Switching language to complete"
+    }
+}
