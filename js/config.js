@@ -4,7 +4,7 @@
         appID:"com.romanysoft.macos.app.milu.fastdownloader",
         documentTitle:"FastDownloader By Romanysoft",
         supportPlatforms:["Mac"],
-        googleUA:"UA-43238484-5",
+        googleUA:"UA-76676167-9",
         gitHome:"//github.com/Romanysoft/FastDownloader",
         reportIssueUrl:"//github.com/Romanysoft/FastDownloader/issues",
         changeLogUrl:"//github.com/Romanysoft/FastDownloader/wiki/Changelog",
