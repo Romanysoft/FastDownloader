@@ -13,8 +13,10 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Maximum lift download acceleration 5 times.",
-        "BtnDownload": "Free Trial",
+        "BtnDownload": "Download",
+        "BtnDownloadDescription": "Free | Official trial version.",
         "BtnBuy": "Buy",
+        "BtnBuyDescription": "Official free upgrade.",
         "Screens": [
             "{{images/screens/common/c1.png}}",
             "{{images/screens/common/c2.png}}",
